@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": [
+        "饭太硬.com",
+        "speedtest.net",
+		"googleapis.cn"
+      ]
+    },
+    {
+      "domain_keyword": [
+        "wogg"
+      ]
+    }
+  ]
+}
