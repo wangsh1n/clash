@@ -10,7 +10,8 @@
     },
     {
       "domain_keyword": [
-        "wogg"
+        "wogg",
+	"woggapi"
       ]
     }
   ]
