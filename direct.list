@@ -4,6 +4,6 @@ DOMAIN-SUFFIX,time.windows.com
 DOMAIN-SUFFIX,starnetcn.com
 DOMAIN-SUFFIX,starnetcn.top
 DOMAIN-SUFFIX,timoyun.cyou
-IP-CIDR,103.103.245.32/24,no-resolve
-IP-CIDR,206.206.104.248/24,no-resolve
-IP-CIDR,206.190.232.197/24,no-resolve
+IP-CIDR,103.103.245.32,no-resolve
+IP-CIDR,206.206.104.248,no-resolve
+IP-CIDR,206.190.232.197,no-resolve
