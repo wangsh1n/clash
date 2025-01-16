@@ -2,6 +2,11 @@ DOMAIN-KEYWORD,wogg
 DOMAIN-SUFFIX,qimiao.com
 DOMAIN-SUFFIX,饭太硬.com
 DOMAIN-SUFFIX,duopan.fun
+DOMAIN-SUFFIX,feimaoai.site
+DOMAIN-SUFFIX,woog.nxog.eu.org
+DOMAIN-SUFFIX,smdyo.top
+DOMAIN-SUFFIX,txfyyds.top
+DOMAIN-SUFFIX,api.zaqohu.com
 DOMAIN-SUFFIX,nxog.eu.org
 DOMAIN-SUFFIX,www.muoupan.top
 DOMAIN-SUFFIX,yydsys.top
@@ -13,6 +18,8 @@ DOMAIN-SUFFIX,time.windows.com
 DOMAIN-SUFFIX,starnetcn.com
 DOMAIN-SUFFIX,starnetcn.top
 DOMAIN-SUFFIX,timoyun.cyou
+IP-CIDR,45.207.212.215/24,no-resolve
+IP-CIDR,1.95.79.193/24,no-resolve
 IP-CIDR,103.103.245.32/32,no-resolve
 IP-CIDR,206.206.104.248/32,no-resolve
 IP-CIDR,206.190.232.197/32,no-resolve
