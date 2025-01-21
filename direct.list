@@ -19,6 +19,8 @@ DOMAIN-SUFFIX,time.windows.com
 DOMAIN-SUFFIX,starnetcn.com
 DOMAIN-SUFFIX,starnetcn.top
 DOMAIN-SUFFIX,timoyun.cyou
+DOMAIN-SUFFIX,wangsh1n.ggff.net
+DOMAIN-SUFFIX,wangsh2n.ggff.net
 IP-CIDR,45.207.212.215/24,no-resolve
 IP-CIDR,1.95.79.193/24,no-resolve
 IP-CIDR,103.103.245.32/32,no-resolve
