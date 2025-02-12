@@ -2,6 +2,8 @@ DOMAIN-KEYWORD,wogg
 DOMAIN-KEYWORD,libvio
 DOMAIN-SUFFIX,qimiao.com
 DOMAIN-SUFFIX,饭太硬.com
+DOMAIN-SUFFIX,特下饭.xyz
+DOMAIN-SUFFIX,muouso.fun
 DOMAIN-SUFFIX,duopan.fun
 DOMAIN-SUFFIX,feimaoai.site
 DOMAIN-SUFFIX,woog.nxog.eu.org
@@ -21,7 +23,7 @@ DOMAIN-SUFFIX,starnetcn.top
 DOMAIN-SUFFIX,timoyun.cyou
 DOMAIN-SUFFIX,wangsh1n.ggff.net
 DOMAIN-SUFFIX,wangsh2n.ggff.net
-IP-CIDR,45.207.212.215/24,no-resolve
+IP-CIDR,103.45.162.207/24,no-resolve
 IP-CIDR,1.95.79.193/24,no-resolve
 IP-CIDR,103.103.245.32/32,no-resolve
 IP-CIDR,206.206.104.248/32,no-resolve
