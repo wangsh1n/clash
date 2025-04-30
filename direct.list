@@ -22,7 +22,6 @@ DOMAIN-SUFFIX,ggff.net
 DOMAIN-SUFFIX,steamdb.info
 DOMAIN-SUFFIX,steamtools.net
 DOMAIN-SUFFIX,steamui.com
-DOMAIN,spc4.s3.ap-east-1.amazonaws.com
 IP-CIDR,103.45.162.207/24,no-resolve
 IP-CIDR,154.204.177.231/24,no-resolve
 IP-CIDR,149.88.87.18/24,no-resolve
