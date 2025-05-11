@@ -3,13 +3,11 @@ DOMAIN-KEYWORD,libvio
 DOMAIN-KEYWORD,gamepp
 DOMAIN-SUFFIX,qimiao.com
 DOMAIN-SUFFIX,饭太硬.com
-DOMAIN-SUFFIX,特下饭.xyz
-DOMAIN-SUFFIX,txfpan.top
 DOMAIN-SUFFIX,mihdr.top
 DOMAIN-SUFFIX,star2.cn
 DOMAIN-SUFFIX,feimaoai.site
 DOMAIN-SUFFIX,woog.nxog.eu.org
-DOMAIN-SUFFIX,mo.666291.xyz
+DOMAIN-SUFFIX,123.666291.xyz
 DOMAIN-SUFFIX,tv.yydsys.top
 DOMAIN-SUFFIX,xhww.net
 DOMAIN-SUFFIX,woss.fenwe.eu.org
@@ -18,7 +16,6 @@ DOMAIN-SUFFIX,starnetcn.top
 DOMAIN-SUFFIX,timoyun.cyou
 DOMAIN-SUFFIX,wangsh1n.ggff.net
 DOMAIN-SUFFIX,wangsh2n.ggff.net
-DOMAIN-SUFFIX,ggff.net
 DOMAIN-SUFFIX,steamdb.info
 DOMAIN-SUFFIX,steamtools.net
 DOMAIN-SUFFIX,steamui.com
@@ -26,7 +23,6 @@ IP-CIDR,103.45.162.207/24,no-resolve
 IP-CIDR,154.204.177.231/24,no-resolve
 IP-CIDR,149.88.87.18/24,no-resolve
 IP-CIDR,1.95.79.193/24,no-resolve
-IP-CIDR,156.238.229.163/24,no-resolve
 IP-CIDR,103.103.245.32/32,no-resolve
 IP-CIDR,206.206.104.248/32,no-resolve
 IP-CIDR,206.190.232.197/32,no-resolve
