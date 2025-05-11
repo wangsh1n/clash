@@ -27,5 +27,4 @@ IP-CIDR,103.103.245.32/32,no-resolve
 IP-CIDR,206.206.104.248/32,no-resolve
 IP-CIDR,206.190.232.197/32,no-resolve
 IP-CIDR,168.138.37.246/32,no-resolve
-PROCESS-NAME,Spotify.exe
-PROCESS-NAME,Spotify
+PROCESS-NAME,com.spotify.music
