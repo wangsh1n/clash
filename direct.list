@@ -19,6 +19,11 @@ DOMAIN-SUFFIX,wangsh2n.ggff.net
 DOMAIN-SUFFIX,steamdb.info
 DOMAIN-SUFFIX,steamtools.net
 DOMAIN-SUFFIX,steamui.com
+DOMAIN-SUFFIX,audio-ak-spotify-com.akamaized.net
+DOMAIN-SUFFIX,audio4-ak-spotify-com.akamaized.net
+DOMAIN-SUFFIX,heads-ak-spotify-com.akamaized.net
+DOMAIN-SUFFIX,heads4-ak-spotify-com.akamaized.net
+DOMAIN-SUFFIX,cdn-spotify-experiments.conductrics.com
 IP-CIDR,103.45.162.207/24,no-resolve
 IP-CIDR,154.204.177.231/24,no-resolve
 IP-CIDR,149.88.87.18/24,no-resolve
@@ -27,4 +32,3 @@ IP-CIDR,103.103.245.32/32,no-resolve
 IP-CIDR,206.206.104.248/32,no-resolve
 IP-CIDR,206.190.232.197/32,no-resolve
 IP-CIDR,168.138.37.246/32,no-resolve
-PROCESS-NAME,com.spotify.music
