@@ -20,6 +20,7 @@ DOMAIN-SUFFIX,steamdb.info
 DOMAIN-SUFFIX,steamtools.net
 DOMAIN-SUFFIX,steamui.com
 DOMAIN-SUFFIX,teamspeak.com
+DOMAIN-SUFFIX,download.nvidia.com
 IP-CIDR,103.45.162.207/24,no-resolve
 IP-CIDR,1.95.79.193/24,no-resolve
 IP-CIDR,103.103.245.32/32,no-resolve
@@ -30,3 +31,4 @@ IP-CIDR,95.181.188.6/32,no-resolve
 IP-CIDR,38.49.36.118/32,no-resolve
 IP-CIDR,154.29.158.129/32,no-resolve
 IP-CIDR,103.172.135.124/32,no-resolve
+
