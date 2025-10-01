@@ -16,6 +16,9 @@ DOMAIN-SUFFIX,timoyun.cyou
 DOMAIN-SUFFIX,ggff.net
 DOMAIN-SUFFIX,wangsh1n.ggff.net
 DOMAIN-SUFFIX,wangsh2n.ggff.net
+DOMAIN-SUFFIX,store.steampowered.com
+DOMAIN-SUFFIX,steampowered.com
+DOMAIN-SUFFIX,steamstatic.com
 DOMAIN-SUFFIX,steamdb.info
 DOMAIN-SUFFIX,steamtools.net
 DOMAIN-SUFFIX,steamui.com
@@ -31,4 +34,3 @@ IP-CIDR,95.181.188.6/32,no-resolve
 IP-CIDR,38.49.36.118/32,no-resolve
 IP-CIDR,154.29.158.129/32,no-resolve
 IP-CIDR,103.172.135.124/32,no-resolve
-
