@@ -21,6 +21,7 @@ DOMAIN-SUFFIX,steamtools.net
 DOMAIN-SUFFIX,steamui.com
 DOMAIN-SUFFIX,teamspeak.com
 DOMAIN-SUFFIX,download.nvidia.com
+DOMAIN-SUFFIX,istoreos.com
 IP-CIDR,103.45.162.207/24,no-resolve
 IP-CIDR,1.95.79.193/24,no-resolve
 IP-CIDR,103.103.245.32/32,no-resolve
