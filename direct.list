@@ -24,4 +24,5 @@ DOMAIN-SUFFIX,download.nvidia.com
 DOMAIN-SUFFIX,istoreos.com
 IP-CIDR,103.45.162.207/24,no-resolve
 IP-CIDR,1.95.79.193/24,no-resolve
+SRC-IP-CIDR,172.20.0.10/32,no-resolve
 IP-CIDR,172.20.0.10/32,no-resolve
