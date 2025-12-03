@@ -13,6 +13,7 @@ DOMAIN-SUFFIX,tv.yydsys.cc
 DOMAIN-SUFFIX,xhww.net
 DOMAIN-SUFFIX,starnetcn.top
 DOMAIN-SUFFIX,timoyun.cyou
+DOMAIN-SUFFIX,dingyue.starnetcn.com
 DOMAIN-SUFFIX,ggff.net
 DOMAIN-SUFFIX,wangsh1n.ggff.net
 DOMAIN-SUFFIX,wangsh2n.ggff.net
@@ -24,4 +25,3 @@ DOMAIN-SUFFIX,download.nvidia.com
 DOMAIN-SUFFIX,istoreos.com
 IP-CIDR,103.45.162.207/24,no-resolve
 IP-CIDR,1.95.79.193/24,no-resolve
-
