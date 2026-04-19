@@ -24,6 +24,8 @@ DOMAIN-SUFFIX,teamspeak.com
 DOMAIN-SUFFIX,download.nvidia.com
 DOMAIN-SUFFIX,istoreos.com
 DOMAIN-SUFFIX,pan.dyuzi.com
+DOMAIN-SUFFIX,xhban.xyz
+DOMAIN-SUFFIX,xsayang.fun
 IP-CIDR,154.17.235.199/24,no-resolve
 IP-CIDR,199.168.139.27/24,no-resolve
 IP-CIDR,209.141.41.196/24,no-resolve
