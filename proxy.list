@@ -3,3 +3,6 @@ DOMAIN,open.spotify.com
 DOMAIN,www.spotify.com
 DOMAIN-SUFFIX,scdn.co
 DOMAIN-SUFFIX,qichiyu.com
+DOMAIN-KEYWORD,augloop
+DOMAIN-SUFFIX,cloud.microsoft
+DOMAIN-SUFFIX,substrate.office.com
