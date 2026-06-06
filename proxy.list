@@ -11,3 +11,7 @@ DOMAIN-SUFFIX,msauth.net
 DOMAIN-SUFFIX,msftauth
 DOMAIN-SUFFIX,live.com
 DOMAIN-SUFFIX,office.net
+DOMAIN-SUFFIX,cloud.microsoft
+DOMAIN-SUFFIX,office.com
+DOMAIN-KEYWORD,aria.microsoft
+DOMAIN-KEYWORD,events.data.microsoft
