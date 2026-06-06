@@ -4,3 +4,10 @@ DOMAIN,www.spotify.com
 DOMAIN,my.dnshe.com
 DOMAIN-SUFFIX,scdn.co
 DOMAIN-SUFFIX,qichiyu.com
+DOMAIN-KEYWORD,microsoftapp
+DOMAIN-SUFFIX,bing.com
+DOMAIN-SUFFIX,bingapis.com
+DOMAIN-SUFFIX,msauth.net
+DOMAIN-SUFFIX,msftauth
+DOMAIN-SUFFIX,live.com
+DOMAIN-SUFFIX,office.net
