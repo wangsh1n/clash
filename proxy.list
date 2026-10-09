@@ -1,7 +1,11 @@
 DOMAIN-SUFFIX,starnetcn.com
 DOMAIN,open.spotify.com
 DOMAIN,www.spotify.com
-DOMAIN,my.dnshe.com
+DOMAIN,accounts.spotify.com
+DOMAIN,spclient.wg.spotify.com
 DOMAIN-SUFFIX,scdn.co
+DOMAIN-SUFFIX,spoti.fi
+DOMAIN-SUFFIX,spotify.link
+DOMAIN,my.dnshe.com
 DOMAIN-SUFFIX,qichiyu.com
 DOMAIN-SUFFIX,nba.com
